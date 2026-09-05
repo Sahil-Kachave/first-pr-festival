@@ -1,7 +1,11 @@
 {
-  "name": "Your Name",
-  "alias": "Your Spider-Alias",
-  "skills": ["Skill One", "Skill Two", "Skill Three"],
-  "suitColor": "#E62429",
-  "githubUsername": "your-github-username"
+  "name": "Ammos",
+  "alias": "Ultimate Spider",
+  "skills": [
+    "Marketing",
+    " Web Engineering",
+    " C++ / Java / Python"
+  ],
+  "suitColor": "#00FFFF",
+  "githubUsername": "Sahil-Kachave"
 }
